@@ -9,3 +9,10 @@
     - AVD 시작하기
    
 <img width="300" height="300" src="./png/2주차출석과제.png"></img>   
+
+## 3주차
+   -네이버화면
+   -전화번호 입력창
+   
+<img width="300" height="300" src="./png/네이버화면.png"></img>
+<img width="300" height="300" src="./png/전화번호.png"></img>
