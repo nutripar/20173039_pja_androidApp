@@ -24,3 +24,10 @@
  - 이미지 바꾸기 버튼
 <img width="300" height="300" src="./png/고양이.png"></img>
 <img width="300" height="300" src="./png/강아지.png"></img>
+
+## 6주차
+ - 두개의 버튼 추가삽입
+<img width="300" height="300" src="./png/넓이.png"></img>
+<img width="300" height="300" src="./png/높이.png"></img>
+<img width="300" height="300" src="./png/버튼두개.png"></img>
+
