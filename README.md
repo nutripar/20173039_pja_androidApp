@@ -47,6 +47,13 @@
 ## 12주차
  - 리싸이클러뷰
 <img width="300" height="300" src="./png/12.png"></img>
+
+## 13주차
+ - 영화이름, 관객수, 영화순위 출력
+<img width="300" height="300" src="./png/m1.png"></img>
+<img width="300" height="300" src="./png/m2.png"></img>
+<img width="300" height="300" src="./png/m3.png"></img>
+                                  
                                   
 
 
